@@ -1,7 +1,9 @@
 # LineFollower_2022
 Progetto per un Line Follower due ruote più ruotino
 
-# Struttura del repository
+![This is an image](https://github.com/OfficineEinstein/LineFollower_2022/blob/main/LineFollowerCover01.jpg)
+
+## Struttura del repository
 Sono presenti 3 cartelle e rispettivamente
 
 FC . contiene i file di progetto degli elementi meccanici e strutturali elaborati in FreeCad e salvati in STL (per le stampe in 3D) o in DXF (per il taglio laser). Per quanto riguarda le stampe sono presenti anche i file di stampa (GCODE) dove dal nome è possibile comprendere la stampante da utilizzare e il diametro dell'estrusore
@@ -10,7 +12,7 @@ KC - Contiene i file con il progetto elettrico sviluppati con KiCad. Possono ess
 
 PF - Contiene i file con il progetto software sviluppati con VSC PlatformIO. Il progetto contiene le librerie esterne e i file include interni se previsti. Pu; essere presente una cartella Doc contenente documentazione tecnica e documenti utili allo sviluppo del progetto
 
-# Scopo del progetto
+## Scopo del progetto
 Il progetto è finalizzato alla realizzazione di un robot in grado di seguire una linea nera tracciata su fondo bianco.
 
 Il roboto deve avere capacità di guida autonoma di livello 5.
