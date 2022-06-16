@@ -15,7 +15,7 @@ PF - Contiene i file con il progetto software sviluppati con VSC PlatformIO. Il 
 ## Scopo del progetto
 Il progetto è finalizzato alla realizzazione di un robot in grado di seguire una linea nera tracciata su fondo bianco.
 
-Il roboto deve avere capacità di guida autonoma di livello 5.
+Il robot deve avere capacità di guida autonoma di livello 5.
 
 Il progetto copre tutte le fasi di progettazione e realizzazione del robot includendo la progettazione estetica e funzionale, la progettazione meccanica, il progetto elettrico (elettronico) delle schede e dei circuiti utilizzati (permette di partire da una scheda Maker uno o Arduino e da driver per i motori e sensori reperibili sul mercato per arrivare sino a schede e sensori progettati e realizzati appositamente) e lo sviluppo del software di navigazione.
 
@@ -37,7 +37,7 @@ PF - Contains the files with the software project developed with VSC PlatformIO.
 
 The project aims to build a robot capable of following a black line drawn on a white background.
 
-The roboto must have level 5 autonomous driving capabilities.
+The robot must have level 5 autonomous driving capabilities.
 
 The project covers all stages of the design and implementation of the robot including aesthetic and functional design, mechanical design, electrical (electronic) design of the boards and circuits used (allows starting from a Maker one or Arduino board and drivers for commercially available motors and sensors and going all the way up to specially designed and manufactured boards and sensors), and the development of navigation software.
 
