@@ -10,7 +10,7 @@ FC . contiene i file di progetto degli elementi meccanici e strutturali elaborat
 
 KC - Contiene i file con il progetto elettrico sviluppati con KiCad. Possono essere presenti sotto cartelle con i file per la realizzazione dei PCB
 
-PF - Contiene i file con il progetto software sviluppati con VSC PlatformIO. Il progetto contiene le librerie esterne e i file include interni se previsti. Pu; essere presente una cartella Doc contenente documentazione tecnica e documenti utili allo sviluppo del progetto
+PF - Contiene i file con il progetto software sviluppati con VSC PlatformIO. Il progetto contiene le librerie esterne e i file include interni se previsti. Può essere presente una cartella Doc contenente documentazione tecnica e documenti utili allo sviluppo del progetto
 
 ## Scopo del progetto
 Il progetto è finalizzato alla realizzazione di un robot in grado di seguire una linea nera tracciata su fondo bianco.
@@ -21,6 +21,8 @@ Il progetto copre tutte le fasi di progettazione e realizzazione del robot inclu
 
 _______________________________________________________________________________________________________________________________________________________
 
+Design for a Line Follower two-wheeler plus caster
+
 ## Repository structure
 
 There are 3 folders and respectively.
@@ -29,7 +31,7 @@ FC . contains the design files of the mechanical and structural elements process
 
 KC - Contains the files with the electrical design developed with KiCad. There may be subfolders with the files for making the PCBs
 
-PF - Contains the files with the software project developed with VSC PlatformIO. The project contains the external libraries and internal include files if provided. Can; be present a Doc folder containing technical documentation and documents useful for the development of the project
+PF - Contains the files with the software project developed with VSC PlatformIO. The project contains the external libraries and internal include files if provided. Can be present a Doc folder containing technical documentation and documents useful for the development of the project
 
 ## Project Purpose.
 
